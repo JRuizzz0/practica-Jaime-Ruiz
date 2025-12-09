@@ -1,1 +1,2 @@
-Este es el primer cambio del proyecto
+Este es el primer cambio del proyecto.
+Este es el segundo cambio del proyecto.
